@@ -1,0 +1,22 @@
+graph G{
+1 -- 2
+1 -- 6
+1 -- 8
+2 -- 3
+2 -- 6
+3 -- 4
+3 -- 5
+4 -- 5
+4 -- 7
+5 -- 6
+6 -- 7
+6 -- 8
+6[color=red]
+3[color=red]
+1[color=green]
+4[color=green]
+2[color=blue]
+5[color=blue]
+7[color=blue]
+8[color=blue]
+}
